@@ -1,6 +1,6 @@
 ## Sarah Davies
 
-As a recent graduate of Makers software development bootcamp, I am excited to begin my career as a frontend developer. Over the past four months, I have gained a solid foundation in various programming languages, including Ruby, JavaScript, and SQL. I have also honed my skills in frontend technologies such as React, HTML, and CSS. During my bootcamp, I worked on a number of projects that involved creating responsive, user-friendly applications, utilizing Git for version control, and integrating with databases such as PostgreSQL and MongoDB. 
+As a recent graduate of Makers software development bootcamp, I am excited to begin my career as a frontend developer. Over the past four months, I have gained a solid foundation in various programming languages, including Ruby, JavaScript, and SQL. I have also honed my skills in frontend technologies such as React, HTML, and CSS. During my bootcamp, I worked on a number of projects that involved creating responsive, user-friendly applications, utilising Git for version control, and integrating with databases such as PostgreSQL and MongoDB. 
  
 With a keen eye for design and a love of creating beautiful, intuitive user interfaces, I am eager to contribute my skills to a dynamic and innovative team. I value making a positive impact on the world and I am looking to work for a company that shares this same vision to contributing to a better planet or society. I believe that technology can be a powerful tool in achieving these goals, and I am eager to be a part of a team that is working towards making a difference in the world. 
 
@@ -25,21 +25,20 @@ With a keen eye for design and a love of creating beautiful, intuitive user inte
 
 #### Adaptable
 
-Immersing myself in different environments and cultures has become second nature to me. Living and working in 5 different countries over the past 10 years pushed me out of my comfort zone and into a whole new world, working in small rural villages to sprawling high-tech cities. Encountering a variety of cultural differences plus language barriers, meant I had to use initiative to find new ways of working together through the diversity, using the benefits of these situations to create a positive impact.
+Immersing myself in different environments and cultures has become second nature to me. Living and working in 5 different countries over the past 10 years pushed me out of my comfort zone and into a whole new world, working in small rural villages to sprawling high-tech cities. Encountering a variety of cultural differences plus language barriers meant I had to use initiative to find new ways of working together through diversity, using the benefits of these situations to create a positive impact.
 
 #### Communication
 
-With a commitment to learn from those around me and work together to help one another, communcation has been a key aspect for many of my job roles. Whilst working at the Princes Trust, I had to change methods of communication depending on the audience, whether this was young people, colleagues, delivery partners, referral agencies or key funders. Working with a variety of people accross companies greatly increased my ability to communicate with different teams, and find a way to work together effectively.
+With a commitment to learn from those around me and work together to help one another, communication has been a key aspect for many of my job roles. Whilst working at the Princes Trust, I had to change methods of communication depending on the audience, whether this was young people, colleagues, delivery partners, referral agencies or key funders. Working with a variety of people across companies greatly increased my ability to communicate with different teams, and find a way to work together effectively.
 
 #### Problem Solving
 
-During my time studying at Makers Academy I learnt something new every day. This also meant plenty of problem solving and looking at a given challenge in a different way. Through multiple individual and group projects, I was able to really build upon my problem solving skills whilst also learn from those around me. 
+During my time studying at Makers Academy I learnt something new every day. This also meant plenty of problem solving and looking at a given challenge in a different way. Through multiple individual and group projects, I was able to really build upon my problem solving skills whilst also learning from those around me. 
 
-An example of this is a project where we had to create a social media app similar to facebook, using the mern stack. As this was something I hadn't worked with before, I spent time diagramming and trying to understand the basics of how the programme worked, which helped build my foundational understanding. During the process of building the program we encournted many problems, but by working together, taking our time, regular breaks, debugging and making use of the resources we had available, we were able to work through the problems.
-
+An example of this is a project where we had to create a social media app similar to facebook, using the mern stack. As this was something I hadn't worked with before, I spent time diagramming and trying to understand the basics of how the programme worked, which helped build my foundational understanding. During the process of building the program we encountered many problems, but by working together, taking our time, regular breaks, debugging and making use of the resources we had available, we were able to work through the problems.
 #### Teamwork
 
-Through my previous job roles and experience, I have worked within many different teams and positivley worked together towards a common goal. Most recently at Makers, I have spent most days working either as part of a team or pair programming. This has really allowed me to work on my coding process and learn together and from others. 
+Through my previous job roles and experience, I have worked within many different teams and positively worked together towards a common goal. Most recently at Makers, I have spent most days working either as part of a team or pair programming. This has really allowed me to work on my coding process and learn together and from others. 
 
 
 ## Education
@@ -47,14 +46,14 @@ Through my previous job roles and experience, I have worked within many differen
 #### Makers Academy (January 2023 - May 2023)
 
 - I successfully completed an immersive four-month software development course that provided comprehensive training in several core areas, including Test Driven Development, Object-Oriented Programming and Model View Controller design patterns. 
-- Throughout the course I worked on three group projects, each with a two-week or less timeframe, and used technologies including Ruby, Sinatra, PostgreSQL, MERN stack, jest, cypress and rspec. I worked effectivley as part of a team to deliver the project acceptance criterias. During these projects, we also used Agile principles, stand-ups and retrospectives to manage the project effectivley. I also regularly particpated in pair programming, coming together to complete challenges, work with others on a daily basis, and share constructive feedback. 
+- Throughout the course I worked on three group projects, each with a two-week or less timeframe, and used technologies including Ruby, Sinatra, PostgreSQL, MERN stack, jest, cypress and RSpec. I worked effectively as part of a team to deliver the project acceptance criterias. During these projects, we also used Agile principles, stand-ups and retrospectives to manage the project effectively. I also regularly participated in pair programming, coming together to complete challenges, work with others on a daily basis, and share constructive feedback. 
 
 #### SheCodes ()
 
 #### De Montfort University (September 2009 - July 2012)
 
 - Fashion Buying with Design (2:1)
-- Final Project included desiging, making and marketing a capsule collection for a Menswear UK brand
+- Final Project included designing, making and marketing a capsule collection for a Menswear UK brand
 
 #### Dartford Grammar School for Girls (September 2002 - July 2009)
 
