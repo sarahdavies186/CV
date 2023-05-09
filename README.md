@@ -16,7 +16,7 @@ With a keen eye for design and a love of creating beautiful, intuitive user inte
 
 | Project (Repo)                                                                            | Description                                                                                                                                               | Technologies                                                                                              |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [Final project]                                                                           |                                                            |                                    |                              
+| [Career Companion](https://github.com/francescoGuglielmi/career_companion)                   | A job hunting application that allows users to track job applications and uses Open AI to create personalised cover letters and practice interview questions.                                                            | React, Node.js, Express.js, MongoDB, OpenAI, Jest, Cypress, Tailwind                                   |                              
 | [Acebook](https://github.com/sarahdavies186/acebook-water)                                | Social media platform created using the Mern stack, lets users sign up, see posts, comment and like, as well as add photos.                               | React, Node.js, Express.js, MongoDB, Jest, Cypress, Bootstrap |
 | [Makers Bnb]                                                                              | Web application that allows user to host or rent a space, see spaces available on given dates and request to book a stay                                  | Ruby, PostgreSQL, Rspec                                                          |
 | [Portfolio](https://github.com/sarahdavies186/portfolio)                                  | Designed and created my own website to showcase recent work.                                                                                              | React, Next.js, Tailwind                                                                      |
@@ -83,5 +83,5 @@ _English Second Language Teacher_
 
 ## Hobbies
 
--Reading
--Travel and photography
+- Reading
+- Travel and photography
