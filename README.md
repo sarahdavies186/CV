@@ -75,7 +75,7 @@ _English Second Language Teacher_
 **Burberry** (Jan 2018 to Aug 2018)  
 _Accessories Raw Materials Sourcing and Supply Administrator_
 
-- Succesfully driving the raw material stock management activity in order to maximise utilisation, reduce waste and execute inventory strategy to support supplier relationships.
+- Successfully driving the raw material stock management activity in order to maximise utilisation, reduce waste and execute inventory strategy to support supplier relationships.
 - Using excel databases and SAP to create and maintain current stock information, successfully communicating with suppliers, project managers and a wider team to ensure project rollout is on time, including risk and issue management and resolving as appropriate. 
 
 **Hope Agency, Cambodia** (Jan 2016 to Dec 2017)  
@@ -99,6 +99,6 @@ _School Co-ordinator & English Second Language Teacher_
 
 ## Hobbies
 
-- Interest in UX desgin and illustration, I have created multiple logo and website designs for small, upcoming businesses
+- Interest in UX design and illustration, I have created multiple logo and website designs for small, upcoming businesses
 - Reading - getting lost in a fiction or learning something new, my head is often buried in a book 
 - Travel and photography - I love to explore new places and cultures with my nikon
