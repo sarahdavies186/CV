@@ -52,31 +52,30 @@ Coming from a design background gives me a unique perspective and has allowed me
 **The Princes Trust** (July 2021 to November 2022)  
 _Youth Development Lead_
 
-- Working to help Kent’s young people improve their lives and thrive in society.
-- I worked with a wide range of delivery partners to provide opportunities for young people to progress in employment, enterprise and education.
-- I planned, created and delivered 10 programmes, supporting over 150 young people into positive outcomes, providing guidance, training, and follow-on support.
+- Worked with a wide range of delivery partners to provide opportunities for young people to progress in employment, enterprise and education. Supporting Kent’s young people improve their lives and thrive in society
+- Planned, created and delivered 10 programmes, supporting over 150 young people into positive outcomes, providing guidance, training, and follow-on support.
 
 **Whales English** (March 2020 to June 2021)  
 _English Second Language Teacher_
 
-- Teaching online to Chinese K12 students, planning and executing over 25 lessons per week to tutor both individuals and groups to help them build and develop their English skills.
+- Taught Chinese K12 students (aged 6 - 15) remotely. Planned and executed over 25 lessons per week to tutor both individuals, pairs and classes of up to 30 students to help them build and strengthen their English speaking, written and listening skills.
 
 **Holdfound Kindergarten, China** (February 2019 to February 2020)  
 _English Second Language Teacher_
 
-- Teaching English to Chinese students aged 3-6 years old. 4 daily classes of 30-35 students, covering key vocabulary and sentences.
-- Developing and implementing a successful curriculum for the English department to make sure that students had a complete learning system in place throughout the school year.
+-  Taught English to Chinese students aged 3-6 years old. 4 daily classes of 30-35 students, covering key vocabulary and sentences to build foundational English skills in speaking and listening.
+- Developed and implemented a successful curriculum for the English department to make sure that students had a complete learning system in place throughout the school year.
 
 **Hujiang** (Aug 2018 to Feb 2019)  
 _English Second Language Teacher_
 
-- Teaching online to Chinese K12 students, planning and executing over 25 lessons per week to tutor both individuals and groups to help them build and develop their English skills.
+- Taught online to Chinese students aged 3 - 16, planning and executing over 25 lessons per week to tutor both individuals and groups to help them build and develop their English skills.
 
 **Burberry** (Jan 2018 to Aug 2018)  
 _Accessories Raw Materials Sourcing and Supply Administrator_
 
-- Successfully driving the raw material stock management activity in order to maximise utilisation, reduce waste and execute inventory strategy to support supplier relationships.
-- Using excel databases and SAP to create and maintain current stock information, successfully communicating with suppliers, project managers and a wider team to ensure project rollout is on time, including risk and issue management and resolving as appropriate. 
+- Successfully drove the raw material stock management activity in order to maximise utilisation, reduce waste and execute inventory strategy to support supplier relationships.
+- Used excel databases and SAP to create and maintain current stock information, successfully communicating with suppliers, project managers and a wider team to ensure project rollout is on time, including risk and issue management and resolving as appropriate.
 
 **Hope Agency, Cambodia** (Jan 2016 to Dec 2017)  
 _School Co-ordinator & English Second Language Teacher_
