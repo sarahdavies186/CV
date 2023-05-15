@@ -43,7 +43,7 @@ An example of this is a project where we had to create a social media app simila
 
 Through my previous job roles and experience, I have worked within many different teams and positively worked together towards a common goal. Most recently at Makers, I have spent most days working either as part of a team or pair programming. This has really allowed me to work on my coding process and learn together and from others. 
 
-### Creative
+#### Creative
 
 Coming from a design background gives me a unique perspective and has allowed me to also use previous experience with software such Adobe PS, AI, XD, ID and figma. This has allowed me to collaborate on the design process of projects, and create an experience suitable for the user.
 
