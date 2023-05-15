@@ -1,18 +1,18 @@
 ## Sarah Davies
 
-As a recent graduate of Makers software development bootcamp, I am excited to begin my career as a frontend developer. Over the past four months, I have gained a solid foundation in various programming languages, including Ruby, JavaScript, and SQL. I have also honed my skills in frontend technologies such as React, HTML, and CSS. During my bootcamp, I worked on a number of projects that involved creating responsive, user-friendly applications, utilising Git for version control, and integrating with databases such as PostgreSQL and MongoDB. 
- 
-With a keen eye for design and a love of creating modern and intuitive user interfaces, I am eager to contribute my skills to a dynamic and innovative team. I value making a positive impact on the world and I am looking to work for a company that shares this same vision to contributing to a better planet or society. I believe that technology can be a powerful tool in achieving these goals, and I am eager to be a part of a team that is working towards making a difference in the world. 
+Innovative and driven full stack developer, experienced with Javascript and Ruby. Recent graduate of Makers Academy, with a creative background and over 6 years of experience in the education and charity sector. 
 
 ## Tech Experience
 
 #### Makers Academy (January 2023 - May 2023)
 
-- I successfully completed an immersive four-month software development course that provided comprehensive training in several core areas, including Test Driven Development, Object-Oriented Programming and Model View Controller design patterns. 
-- Throughout the course I worked on three group projects, each with a two-week or less timeframe, and used technologies including Ruby, Sinatra, PostgreSQL, MERN stack, jest, cypress and RSpec. The projects utilised version control with Git and GitHub, allowing for code reviews and tracking of changes throughout the development process. I worked effectively as part of a team to deliver the project acceptance criterias. During these projects, we also used Agile principles, stand-ups and retrospectives to manage the project effectively. I also regularly participated in pair programming, coming together to complete challenges, work with others on a daily basis, and share constructive feedback.
+- Built a range of diverse projects using Javascript and Ruby, with a focus on self-led learning, allowing me to become adaptable to different technologies and quickly learn new programming languages
+- Worked as part of Agile teams, following XP values, and an emphasis on pair programming, code reviews, CI/CD, and Git version control
+- Created a responsive job hunting platform that allows users to track job applications and uses Open AI to create personalised cover letters and practice interview questions. Created with MongoDB, Express and Node.js to build a backend RESTful API, with React on the frontend. Tested with Jest and Cypress. Styled with TailwindCSS
+- Developed an application to rent out home spaces, following TDD and OOP principles. Built with Ruby, Sinatra, PostgreSQL, and tested with RSpec
 
 #### SheCodes (January 2022 - July 2022)
-- Completed the Basics, Plus and Responsive courses, comprised of self-led learning in HTML, CSS and javascript
+- Completed the Basics, Plus and Responsive courses, comprised of self-led learning in HTML, CSS, Javascript and Bootstrap
 
 ## Projects
 
@@ -45,7 +45,7 @@ Through my previous job roles and experience, I have worked within many differen
 
 #### Creative
 
-Coming from a design background gives me a unique perspective and has allowed me to also use previous experience with software such Adobe PS, AI, XD, ID and figma. This has allowed me to collaborate on the design process of projects, and create an experience suitable for the user.
+Coming from a design background gives me a unique perspective and has allowed me to also use previous experience with software such Adobe PS, AI, XD, ID and figma. This has allowed me to collaborate on the design process of projects, and create a tailored experience for the user.
 
 ## Work Experience
 
