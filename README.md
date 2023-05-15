@@ -20,7 +20,7 @@ With a keen eye for design and a love of creating modern and intuitive user inte
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [Career Companion](https://github.com/francescoGuglielmi/career_companion)                   | A job hunting application that allows users to track job applications and uses Open AI to create personalised cover letters and practice interview questions.                                                            | React, Node.js, Express.js, MongoDB, OpenAI, Jest, Cypress, Tailwind                                   |                              
 | [Acebook](https://github.com/sarahdavies186/acebook-water)                                | Social media platform created using the Mern stack, lets users sign up, see posts, comment and like, as well as add photos.                               | React, Node.js, Express.js, MongoDB, Jest, Cypress, Bootstrap |
-| [Makers Bnb]                                                                              | Web application that allows user to host or rent a space, see spaces available on given dates and request to book a stay                                  | Ruby, PostgreSQL, Rspec                                                          |
+| [Makers Bnb](https://github.com/sarahdavies186/makersbnb)                                                                              | Web application that allows user to host or rent a space, see spaces available on given dates and request to book a stay                                  | Ruby, PostgreSQL, Rspec                                                          |
 | [Portfolio](https://github.com/sarahdavies186/portfolio)                                  | Designed and created my own website to showcase recent work.                                                                                              | React, Next.js, Tailwind                                                                      |
 
 ## Skills
@@ -99,5 +99,6 @@ _School Co-ordinator & English Second Language Teacher_
 
 ## Hobbies
 
-- Reading
-- Travel and photography
+- Interest in UX desgin and illustration, I have created multiple logo and website designs for small, upcoming businesses
+- Reading - getting lost in a fiction or learning something new, my head is often buried in a book 
+- Travel and photography - I love to explore new places and cultures with my nikon
