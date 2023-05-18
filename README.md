@@ -1,6 +1,12 @@
-## Sarah Davies
+<h1 align="center">Sarah Davies</h1>
 
-Innovative and driven full stack developer, experienced with Javascript and Ruby. Recent graduate of Makers Academy, with a creative background and over 6 years of experience in the education and charity sector. 
+<div align="center">
+<h3>sarahdavies186@gmail.com</h3>  
+  <a href="https://sarahdavies.netlify.app/">My Portfolio</a>  
+  <a href="linkedin.com/in/sarahdavies1/">LinkedIn</a>
+</div>
+</br>
+<p align="center">Innovative and driven full stack developer, experienced with Javascript and Ruby. Recent graduate of Makers Academy, with a creative background and over 6 years of experience in the education and charity sector. </p>
 
 ## Tech Experience
 
