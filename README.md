@@ -6,7 +6,7 @@
   <a href="linkedin.com/in/sarahdavies1/">LinkedIn</a>
 </div>
 </br>
-<p align="center">Innovative and driven full stack developer, experienced with Javascript and Ruby. Recent graduate of Makers Academy, with a creative background and over 6 years of experience in the education and charity sector. </p>
+<p align="center">A technically trained but creatively inclined full stack developer experienced with Javascript and Ruby. Recent graduate of Makers Academy, with a background in art and over 6 years experience in the education and charity sector. Seeking a new challenge to develop and grow a career in software development. </p>
 
 ## Tech Experience
 
