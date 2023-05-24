@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>sarahdavies186@gmail.com</h3>  
-  <a href="https://sarahdavies.netlify.app/">My Portfolio</a>  
+  <a href="https://sarahdavies.netlify.app/">My Portfolio |</a>  
   <a href="linkedin.com/in/sarahdavies1/">LinkedIn</a>
 </div>
 </br>
