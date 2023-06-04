@@ -33,7 +33,7 @@
 
 #### Adaptable
 
-Immersing myself in different environments and cultures has become second nature to me. Living and working in 5 different countries over the past 10 years pushed me out of my comfort zone and into a whole new world, working in small rural villages to sprawling high-tech cities. Encountering a variety of cultural differences plus language barriers meant I had to use initiative to find new ways of working together through diversity, using the benefits of these situations to create a positive impact.
+Immersing myself in different environments and cultures has become second nature to me. Living and working in 5 different countries over the past 10 years has honed my adaptability as a skill. From small rural villages to bustling high-tech cities, I have encountered diverse cultural differences and language barriers. These experiences have taught me to embrace change and find new ways of working together through diversity. Transitioning to a career in software development further showcases my adaptability, as I continuously adapt to new technologies, frameworks, and practices. My ability to thrive in dynamic and evolving environments is a valuable asset that allows me to quickly integrate, contribute, and make a positive impact in any team or project.
 
 #### Communication
 
@@ -47,7 +47,7 @@ An example of this is a project where we had to create a social media app simila
 
 #### Teamwork
 
-Through my previous job roles and experience, I have worked within many different teams and positively worked together towards a common goal. Most recently at Makers, I have spent most days working either as part of a team or pair programming. This has really allowed me to work on my coding process and learn together and from others. 
+Through my previous job roles and experience, I have worked within many different teams and positively worked together towards a common goal. Most recently at Makers, I have spent most days working either as part of a team or pair programming. This has really allowed me to work on my coding process and learn together and from others. During our projects, we used Agile methodologies, conducting sprint planning, daily stand-ups, retrospectives, and utilized a ticketing system for efficient task management, allowing for frequent communication, collaboration, and shared accountability through practices such as iterative planning and continuous feedback.
 
 #### Creative
 
